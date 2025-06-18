@@ -45,7 +45,7 @@ Python version used in the training container: Python 3.11
 11. [[Supervised - QLoRA] Llama-3.2 3B](./llama/llama-3.2-3b-qlora-remote-decorator_qa.ipynb)
 12. [[Supervised - QLoRA, FSDP] Codestral-22B](./codestral-22b-fsdp-qlora-remote-decorator_qa.ipynb)
 13. [[Supervised - LoRA] TinyLlama 1.1B](./llama/tiny-llama-1.1b-lora-remote-decorator_qa.ipynb)
-14. [[Supervised - LoRA] Arcee Lite 1.5B](./arcee-ai/arcee-ai-arcee-lite-1.5b-lora-remote-decorator_qa.ipynb)
+14. [[Supervised - FSDP, QLoRA] Arcee Lite 1.5B](./arcee-ai/arcee-ai-arcee-lite-1.5b-fsdp-qlora-remote-decorator_qa.ipynb)
 15. [[Supervised - LoRA] SmolLM2-1.7B-Instruct](./huggingface/smollm2-1.7b-lora-remote-decorator_qa.ipynb)
 16. [[Supervised - QLORA, FSDP] Qwen 2.5 7B](./qwen/qwen-2.5-7b-qlora-fsdp-remote-decorator_qa.ipynb)
 17. [[Supervised - QLORA] Falcon3 3B](./falcon/falcon3-3b-qlora-remote-decorator_qa.ipynb)
